@@ -14,7 +14,6 @@ import org.testng.annotations.Test;
 
 public class brokenlinks
 {
-
     public static WebDriver driver = null;
 
     @Test
