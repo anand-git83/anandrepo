@@ -18,7 +18,6 @@ public class brokenlinks
 
     @Test
     public  void testBroken() {
-
         String homePage = "http://www.zlti.com";
         String url = "";
         HttpURLConnection huc = null;
